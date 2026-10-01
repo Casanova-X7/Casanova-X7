@@ -1,28 +1,84 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Dhairya%20Rawat&fontSize=58&fontColor=ffffff&animation=twinkling&color=0:020617,50:0f172a,100:172554&fontAlignY=42&desc=Casanova-X7%20%E2%80%A2%20B.Tech%20CSE%20%E2%80%A2%20Learning%20%E2%80%A2%20Building&descAlignY=64&descSize=18" width="100%"/>
 
-### ✦ *Somewhere between curiosity and code, I'm figuring things out.* ✦
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=93C5FD&center=true&vCenter=true&width=750&lines=B.Tech+CSE+Student;Welcome+to+my+little+corner+of+the+internet+%E2%9C%A8;I+like+to+break+code+just+to+understand+it;Learning+%E2%86%92+Building+%E2%86%92+Debugging+%E2%86%92+Improving;Exploring+AI%2FML+%26+Software+Development" alt="Animated introduction" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=93C5FD&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student;Learning+C+%7C+C%2B%2B+%7C+Python;Debugging+%E2%80%A2+Building+%E2%80%A2+Exploring;Exploring+AI%2FML+and+Software+Development" alt="Typing intro" />
+### ✦ *Somewhere between curiosity and code, I'm figuring things out.* ✦
 </div>
 
 ---
 
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1500&color=60A5FA&center=true&vCenter=true&width=650&lines=%F0%9F%8C%8C+WHO+AM+I%3F;%F0%9F%91%8B+Hey%2C+I'm+Dhairya+Rawat;%F0%9F%92%BB+B.Tech+CSE+Student;%F0%9F%A7%A0+Curious+Mind+%7C+Problem+Solver" alt="Who am I animation" />
+</div>
+
 ## 🌌 About Me
 
-Hey! I'm **Dhairya Rawat**, a B.Tech CSE student who enjoys understanding how things work rather than simply making them work.
+<div align="center">
 
-- 💻 Currently learning **C, C++, Python, Java, HTML & programming fundamentals**
-- 🧩 I enjoy **debugging, modifying, fixing and improving existing code**
-- 🧠 Interested in **problem solving, logic and figuring out why things work**
-- 🤖 Exploring **AI/ML, software development and emerging technologies**
-- 🎨 I like experimenting with **creative digital projects and interactive ideas**
-- 🐈 Cat person. Obviously.
-- 🌱 Still learning, experimenting and occasionally breaking things
+| ✦ | ✦ | ✦ |
+|:---:|:---:|:---:|
+| 💻 **LEARNING** | 🧩 **DEBUGGING** | 🚀 **EXPLORING** |
+| C • C++ • Python • Java | Fix • Modify • Understand | AI/ML • Software • Tech |
 
-> **“The best way to learn is to be curious enough to ask why.”**
+</div>
+
+> 🌙 **I don't just want code that works — I want to understand why it works.**
 
 ---
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1300&color=93C5FD&center=true&vCenter=true&width=700&lines=%F0%9F%A7%A9+HOW+I+LIKE+TO+CODE;%E2%86%92+Think;%E2%86%92+Try;%E2%86%92+Break;%E2%86%92+Debug;%E2%86%92+Understand;%E2%86%92+Improve;%E2%86%92+Repeat+%E2%9C%A8" alt="Coding process animation" />
+</div>
+
+## 🧠 My Coding Style
+
+I genuinely enjoy **debugging, modifying, fixing and improving existing code**. When something doesn't work, figuring out *why* is half the fun.
+
+```text
+       ┌──────────┐
+       │   IDEA   │
+       └────┬─────┘
+            ↓
+       ┌──────────┐
+       │   CODE   │
+       └────┬─────┘
+            ↓
+       ┌──────────┐
+       │  BREAK?  │ ────── YES ──────┐
+       └────┬─────┘                  ↓
+            │                   ┌─────────┐
+            NO                  │ DEBUG 🔧│
+            │                   └────┬────┘
+            ↓                        │
+       ┌──────────┐ ←───────────────┘
+       │ UNDERSTAND│
+       └────┬─────┘
+            ↓
+         IMPROVE ✨
+```
+
+---
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1400&color=60A5FA&center=true&vCenter=true&width=720&lines=%F0%9F%9A%80+WHAT+AM+I+EXPLORING%3F;%F0%9F%A4%96+AI+%2F+ML;%F0%9F%92%BB+Software+Development;%F0%9F%A7%A0+Problem+Solving;%F0%9F%8C%90+Creative+Digital+Ideas" alt="Exploring animation" />
+</div>
+
+## 🚀 What I'm Exploring
+
+<table align="center">
+<tr>
+<td align="center" width="220"><br>🧠<br><b>PROBLEM SOLVING</b><br><sub>Logic • Algorithms • Debugging</sub><br><br></td>
+<td align="center" width="220"><br>🤖<br><b>AI / ML</b><br><sub>Exploring the fundamentals</sub><br><br></td>
+<td align="center" width="220"><br>💻<br><b>SOFTWARE</b><br><sub>Building & experimenting</sub><br><br></td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=93C5FD&center=true&vCenter=true&width=700&lines=%F0%9F%8C%B1+CURRENTLY+LEARNING;%E2%9C%A8+C+%7C+C%2B%2B+%7C+Python+%7C+Java;%E2%9C%A8+HTML+%7C+Git+%7C+GitHub;%E2%9C%A8+Programming+Fundamentals;%E2%9C%A8+One+step+at+a+time..." alt="Currently learning animation" />
+</div>
 
 ## 🛠️ My Tech Universe
 
@@ -32,25 +88,17 @@ Hey! I'm **Dhairya Rawat**, a B.Tech CSE student who enjoys understanding how th
 
 ---
 
-## 🚀 What I'm Exploring
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1600&color=60A5FA&center=true&vCenter=true&width=650&lines=%F0%9F%8C%99+BEYOND+THE+CODE;%F0%9F%8E%AE+Games;%F0%9F%8E%A8+Creative+Ideas;%F0%9F%90%88+Cats;%F0%9F%8C%8C+Technology;%F0%9F%94%8D+Figuring+Out+How+Things+Work" alt="Beyond the code animation" />
+</div>
 
-<table align="center">
-<tr>
-<td align="center" width="220"><br>🧠<br><b>Problem Solving</b><br><sub>Logic • Algorithms • Debugging</sub><br><br></td>
-<td align="center" width="220"><br>🤖<br><b>AI / ML</b><br><sub>Exploring the fundamentals</sub><br><br></td>
-<td align="center" width="220"><br>💻<br><b>Software</b><br><sub>Building & experimenting</sub><br><br></td>
-</tr>
-</table>
+## 🌙 Beyond the Code
 
----
+I like technology, creative ideas, games, experimenting with new concepts, and learning things that make me stop and think **“wait… how does that actually work?”**
 
-## 🌠 How I Like to Code
+🐈 **Fun fact:** I'm a cat person. Obviously.
 
-```text
-Think → Try → Break → Debug → Understand → Improve
-```
-
-I prefer understanding **why** something works instead of blindly copying a solution. Debugging and modifying code are a big part of how I learn.
+🌱 I'm still early in the journey — and that's the fun part.
 
 ---
 
@@ -73,15 +121,9 @@ I prefer understanding **why** something works instead of blindly copying a solu
 
 ---
 
-## 🌙 Beyond the Code
-
-I like technology, creative ideas, games, experimenting with new concepts, and learning things that make me stop and think **“wait… how does that actually work?”**
-
-I'm still early in the journey — and that's the fun part.
-
 <div align="center">
 
-### ✦ Keep exploring. Keep building. Keep wondering. ✦
+### 🌌 ✦ Keep exploring. Keep building. Keep wondering. ✦ 🌌
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:172554,50:0f172a,100:020617&animation=twinkling" width="100%"/>
 </div>
